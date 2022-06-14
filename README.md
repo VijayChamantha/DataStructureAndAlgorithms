@@ -1,2 +1,2 @@
 # DataStructureAndAlgorithms
-we going to make algorithms 
+we going write iptimised solutions to algorithms
